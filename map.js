@@ -12,6 +12,11 @@ const conferences = {
         "name": "College Conference of Illinois and Wisconsin",
         "teams": [
             {
+                "name": "Elmhurst University",
+                "location": [41.897463, -87.947758],
+                "logo": "img/elmhurst.png"
+            },
+            {
                 "name": "North Central College (IL)",
                 "location": [41.7727, -88.1440],
                 "logo": "img/northern-central-college.png"
@@ -228,7 +233,7 @@ const conferences = {
             },
             {
                 "name": "Lakeland University",
-                "location": [39.419537, -88.381572],
+                "location": [43.843494, -87.887568],
                 "logo": "img/lakeland.png"
             },
             {
@@ -308,7 +313,7 @@ const conferences = {
         "teams": [
             {
                 "name": "Crown College",
-                "location": [36.022805, -84.030593],
+                "location": [44.882668, -93.742268],
                 "logo": "img/crown-college.png"
             },
             {
